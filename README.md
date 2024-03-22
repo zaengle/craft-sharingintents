@@ -1,11 +1,11 @@
-# Sharing Intents plugin for Craft CMS 4.x
+# Sharing Intents plugin for Craft CMS 5.x
 
 Generate social sharing intent URLs 
 
 
 ## Requirements
 
-This plugin requires Craft CMS 4.0.0-beta.4 or later.
+This plugin requires Craft CMS 5.0.0-beta.6 or later.
 
 ## Installation
 
@@ -23,7 +23,7 @@ Generate sharing URLs using web intents
 Current providers:
 
 - Facebook
-- Twitter
+- Twitter / X
 - LinkedIn
 
 ## Configuring Sharing Intents
